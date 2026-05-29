@@ -1,0 +1,333 @@
+This document contains the interview script of Website Wealth. The discussion relates exclusively to this book title.
+
+One of the best known events in the modern Olympics is the high jump. ~Since it's done in 1896, all jumpers use the same technique. ~In this event, they would run towards the bar, then begin their vault by putting one leg over, or trying to get head first over the bar. But someone came to the 1968 Mexico City Games who couldn't win on physicality or these approaches, but who did have a hack?
+
+No one else had thought of, ~Hey Glenn here. Welcome to Final Reboot, the podcast for analytically minded marketers. ~That person was a 21-year-old. American named Dick Fosbury, who you wouldn't find anything notable about looking back at his track career in high school, he'd struggled to master all the motions used in the high jump, and coaches noted how little he practiced when time came for track meet qualifiers.
+
+His jumps came up short, but then he got to university [00:01:00] for civil engineering. He began to experiment with other ways of jumping. In his studies, he learned that our ability to jump is limited by our center of gravity. Lifting our whole body over a bar at the same time demands that we raise our center of gravity to that same height.
+
+~So ~Fosbury analyzed to see if there was a way to get a human over the bar one part at a time. Which temporarily moves our whole center of gravity to somewhere below us, even below the bar. That means that without jumping any higher, we can clear a higher bar. It's playing a trick on physics. Fosbury used the technique selectively for two seasons because his coach still went by the tried and true technique the heights he was clearing, got higher and higher.
+
+It wasn't until a month before Mexico City [00:02:00] that he secured himself a spot on Team USA. The Olympics was the first moment where everyone saw Fosbury new back flip maneuver. The press coined it, the fosbury flop. Everyone also noticed his performance. He didn't miss a jump right up to the metal round. I bet as international competitors watched him advance through rounds while they hit the bar and got disqualified.
+
+~Must have felt pretty disarmed by that flop. ~The bar was raised in the finals to 2.24 meters, or seven foot four and a quarter inches higher than at any games before. Fosbury missed on his first two attempts. But he was the only one to clear it on his third attempt, winning the Olympic gold medal and breaking the Olympic record.
+
+Ever since this back first technique has been the [00:03:00] obvious way. Every jumper has used phos style, so clearly solved the high jump problem. We don't even question it. Lots of problems seem unsolvable until an obvious situation is posed. It's a phenomenon today's guest commonly sees on all sorts of websites.
+
+Her recently launched book puts it this way, the solutions we implemented may seem obvious in hindsight, but the problems and opportunities remain hidden until we analyze their data in depth, and that's the point. Our guest has spent 25 years teaching digital marketing strategy and analytics at business schools and consulting to companies whose websites generate hundreds of millions of dollars.
+
+She's the author of 42 Rules for a website that wins, and she came out in 2025 with the book Website. Wealth A Business Leader's Guide to [00:04:00] Driving Real Value from Your Analytics. Let's go to Northern California to speak with Philippa Gamse. 
+
+Speaker 2: Philippa Games. Welcome to Funnel Reboot. Hey, good morning Glennnn. How you doing? 
+
+I'm doing great. Thank you. And I am excited to talk about a book that you've written. What's the name of the book? 
+
+Speaker 4: It's called Website Wealth. A Business Leader's Guide to Driving Real Value from your Analytics. 
+
+Speaker 2: Yes. And that's exactly what we're gonna get into today.
+
+We're gonna start by getting a myth outta the way. It has to do with people like yourself who study the sort of thing. And the myth is that a person who can analyze can. Just by looking at the front end of a website, have a sense of what needs done with it. You say that when people come and ask you this sort of thing.
+
+~Um, ~hoping to get some insights ~from you. You, I guess if you're feeling kind of flippant about it, ~you say, ~um, ~I can look at your [00:05:00] website, but ~I will doubt, ~I doubt what I will tell you will be of any use to you. 
+
+Speaker 4: ~Why? ~Okay. ~I, well, you know, actually, of course, the truth is that ~since I've been doing this for quite a long time, ~I mean, ~there are certain clues.
+
+~What I do, ~what I can do is look at a website and say, ~you know, ~if I had your analytics, I would be looking at this. Here's a video. Are people watching it? Here's a really long page. Are people scrolling down it or are they missing ~really ~valuable content because they're not getting very far down the page?
+
+~I mean, ~I could point out ~to them ~a whole load of questions like, ~Hey, ~I'd be worried about this and I'd want to know what's going on. But ~absolutely ~without that actual data, I have no better idea than you do. 
+
+Speaker 2: And the reason why the site should exist is. To give the user the ability to complete ~a, a, ~a task, a job, ~a ~or fill in some information gaps in their mind.
+
+~Uh, and ~you make that point very clear in the book, ~you explain that ~visitors are coming to the site with that intent. They want to get some information ~or ~book an appointment [00:06:00] or watch a video to learn, ~and that ~you have the hardest time. Understanding what those jobs are. If you are the owner of the business, or ~let's say ~a marketer ~who was the person ~who built that website, ~what, ~what is the problem?
+
+Do we not have the ability to step outside of ourselves and see it like the customers do? 
+
+Speaker 4: ~I'd actually there, ~there's one other very important thing that people are looking to your website for, ~um, ~which is ~that ~can they trust you? Do you come across as competent and do they believe your claims ~of who you are?~
+
+~Is, you know, ~are you who you say you are and can you do what you say you do? ~Um. ~There are ~all sorts of ~ways ~that ~a website can ~actually ~get in the way of that trust. So, ~um, ~the, the, I think, ~you know, ~I don't wanna say that marketers have no idea what they're doing when they build a website, but, ~um, the, ~the issue ~that ~I find a lot is that it's absolutely normal.
+
+I'm sure I have it at my own site. You get so close to your own stuff, ~but the, ~you can't see the things that other people are never going to be able to figure out. So that it's not that we dunno what we're doing, it's that, ~you know, ~we're just normal human beings. ~Right. Um, but uh, ~I think I say in the book, ~you know, ~[00:07:00] examples where the business owner will say to me, but it's obvious you're supposed to click that, ~you know, ~and you go, yes, but you can say that because you know it's there.
+
+I never saw that before. ~And it's so interesting, ~I think in the book I give an example of, ~of, you know, ~where my brother and I were actually looking at the same homepage simultaneously for the first time. ~And, um, ~it had quite a lot of stuff on it and we both gravitated to completely different pieces of that homepage.
+
+~And, ~and that can be a very common experience. 
+
+Speaker 2: Yeah. And there's, ~um. ~Many times where we don't understand who the user is. We'll get to that in a minute, but you rail against people who have, ~uh, let's say, uh, you know, ~real businesses and perhaps there's even a physical location or, ~you know, there, ~there is a way that you could meet this person if you wanted to.
+
+For example, ~you know, ~spend, ~uh, by ~an hour of their time. ~Uh, ~and yet what you say they do goes in the opposite direction of. How you would build that trust. They use stock photos instead of an image of themselves, or they don't put a physical [00:08:00] address or even a city where they're located ~in when ~if you were running into that person any other way, ~but the but a website, ~those would be the first things you would ask for you to ascertain is this person trustworthy?
+
+Speaker 4: ~Right. Yeah. ~I was just thinking when you were saying ~that it's like that, you know, ~if you watch a load of trashy detective stuff ~on, on, ~on TV or online ~or whatever, you know, there's, ~there's always the woman and this very charming guy comes into her life, but she notices that if she goes to his place, there's no pictures of his family or anything like that.
+
+Right. ~Um, ~because he's pretending to be somebody that he isn't. ~Shouldn't say he. That's very sexist, isn't it? But anyway, ~
+
+Speaker 2: ~no, the, ~the point's taken that, ~uh, ~there are clues and, ~uh, ~we have wiring in our brains. ~Reptilian mind, ~as you call it, that ~uh, ~for the longest time have been set up to do nothing but look for those clues or the absence of them.
+
+So we, ~we, and ~especially today when an apparel 
+
+Speaker 4: right. ~And ~unfortunately, ~you know, ~at the moment there is ~a, ~a lot of publicity about scams online, about phishing sites and all sorts of other stuff. I mean, yeah, you absolutely wanna come across ~as, ~as real. 
+
+Speaker 2: ~Yeah. The. ~The way, getting back to the notion that they want to do something, whether it is reach [00:09:00] out to you because you've given them ~now ~a means of contacting you or finding out about you.
+
+~The, ~the good news is that you can tell if your website is doing those things successfully by what you're seeing in the data from the backend. So just take us through a little bit ~of kind ~of what the. Easy things are that we can check for, to see whether or not those intended actions, ~um, ~are as obvious to the user as they are to us.
+
+Speaker 4: ~Right? ~And we should be really clear about this ~actually. So ~intended actions might be clicking ~on, ~on a link. ~You know, ~filling in a form might be to subscribe to your newsletter, right? Watching a video. And we can look for. For example, did they start filling in the form and not complete it? Did they watch the video for ~all of ~10 seconds ~and, and, and forget ~and stop, ~you know, did, do ~they place a load of things in shopping carts and then not do anything more?
+
+Or do they even start a checkout process? ~And, you know, ~abandoned shopping cart rates are still incredibly high, which is ~really quite, ~quite interesting. ~Um. ~We can [00:10:00] see all those things and sometimes the data will give us an indication of why. ~I mean, you know, ~the classic one is where somewhere in your ~shopping, ~shopping cart process, ~you, ~you reveal the shipping charges and the taxes, and that's when people say, no.
+
+~You know, we all, we all know that kind of stuff, but. ~What the data can't necessarily tell you is why, so it can tell us where the problems are. It can't necessarily really get into the mind of the visitor and say, why did you stop watching this video? What was it that annoyed you? ~Right. And so I, ~I think I also ~do ~say in the book that, ~you know, ~we have ~this stuff that we call ~quantifiable data, which is the numbers.
+
+Then we have qualitative data, which is the wise. And ~uh, ~and I and I do have these stories about telling business owners that they ~actually ~need to ~go and ~talk to their customers or ~their ~visitors and say, tell me what you did or didn't like about the site. Do some usability testing. ~You know, one of the things that's really.~
+
+~Very simple to do is to ~get somebody who's never seen your website before and give them something to do. ~Okay. ~Buy something, book something, sign up for something, ~right? Yes. And ~or find a piece of information. ~Yeah. And ~then sit behind them. I mean, don't, don't have any, don't give them any sort of influence about what they do, or let them record the session.
+
+~Don't even be there. Right. Right. And see. ~See what they do and where they get stuck and have them talk through it, ~you know? Oh, I think I might try clicking this because this looks interest. No, that's not right. Um, well maybe it's that, you know, and ~that [00:11:00] can be so helpful. 
+
+Speaker 2: Yeah. And, ~uh, ~so session recordings, wonderful.
+
+~Um, we'll put this in the show notes, but even simple tools like, uh, ~Microsoft makes a tracking tool ~and ~if you drop the tracking code in, they have this product called Clarity, which will allow you to play back ~and. Um, ~this will horrify a person who has built the website. Sometimes when they can see someone looked for this on the site search tool and then it took them to that page, and then you see their cursor going all around.
+
+~It's, it's, ~it's like they're on some kind of treasure hunt, but to you, ~you're, ~you're almost screaming at the recording going. It's at the bottom. Just go to the bottom. ~It's right. Anyway, yeah. Clar ~
+
+Speaker 4: ~clarity is great. Right. ~And ~actually ~one of the things I love about it is that it shows you the user's screen as they see it.
+
+Speaker 3: Yes. 
+
+Speaker 4: ~Um, ~because of course there are so many different screen sizes. There's mobile, there's desktop, there's laptops, there's tablet, ~whatever. Right. Um, ~so you can see how that plays into their experience. 
+
+Speaker 2: Yeah. ~And then I suppose, uh. ~The next best thing, ~uh, are, and you gotta be judicious, but ~you can pop up a little survey, ~you know, ~did you find what you were looking for today?
+
+Or have your chat bot do that, and that's gonna [00:12:00] fill in that why question. ~Um, but of course, those are usually in pure play. You know, my, my web presence is my business for goodness sakes. ~If you are in a hybrid, ~you know, ~physical and web-based presence, ~then w. ~Business owners have to do what you suggested, which is just ask the customer, ~you know, ~have you been on our website ~or ~Oh, you came into the store?
+
+Yes, I came in 'cause I couldn't find what I was looking for on the website. Oh, tell me more. 
+
+Speaker 3: Mm-hmm. 
+
+Speaker 2: So ~we, ~we really need to do that and I think we need to. As we talk about getting into that data behind the scenes, the stuff that will tell us what they are doing or not doing, ~uh, ~there's a couple of things that I think you put people at ease on.
+
+First off, you say you don't have to track 30 things. ~Um, ~you tell a story of one marketer who did have to report on 30 different things to their boss every week. ~Was it, uh, ~what do you say to that? 
+
+Speaker 4: It was crazy. ~Uh, it was, ~he was ~actually, um, ~in charge of ~paid ~pay-per-click advertising for ~a, ~a rather large company that you will have heard of.
+
+~And I mean, so the, who really should have known better. Um, because ~the problem with measuring a bazillion things, ~you know, ~there is no point in measuring anything unless you know what you're gonna do with that information. ~I mean, ~measuring [00:13:00] for the sake of it, ~you know? Yeah. ~Knock yourself out. But what's the point?
+
+~Because. ~If you're measuring 30 different things ~and you want, because ~what you want to do with measurement is to improve. So you wanna say, here's a metric that, that we can work with. ~But if you are, if, but ~you need to focus on that metric and if you're going to change something and test it, ~'cause obviously, you know, we can say, okay, let's try doing this instead.~
+
+~Right. ~Let's try putting the shipping charges up front, ~or, ~or whatever it is. Or let's try moving the call to action. ~Or ~adding a new one or changing the wording on it, right? You wanna just test that because if, if you've got 30 other moving parts at the same time, you don't know what ~is it that ~actually changed the response rate.
+
+~Um, so, um, ~I used to have the honor of teaching with Avinash kic. ~I dunno, you. I, ~which was amazing. ~Um, and, and you know, ~he's one of the most gracious, incredible gurus I've ever met. ~Uh, but ~I ~actually ~got to teach with him ~a, ~at ~a, ~an amazing company called Market Motive that unfortunately isn't with us anymore.
+
+~Um, and he would, ~he had a thing called the digital measurement Model, which ~literally ~had ~like nine, ~no more than nine KPIs on it. ~And ~those KPIs were spread across. The customer journey. ~So ~[00:14:00] acquisition, ~which ~is, ~you know, ~how you get people to your website behavior, which is all the things ~that ~they do on your website, other than fulfill your, your, your actual desired outcomes, like the actual sale or whatever, you know, but the content ~that ~they consume ~and ~which pages they look at, and how far they go ~and all of that stuff.~
+
+~And then actually, you know, the conversion stuff. ~He would have two, three at the most KPIs in each of those sections ~that, ~that you are currently focusing on, because that's the stuff that you wanna work on. ~So, so ~the goal here is to say, okay, my website's chugging along, but this is the piece that I want ~to ~to work on right now.
+
+~And ~maybe in all of those. Three buckets. ~Uh, and ~of course there's retention as well. We could add on retention and support ~and stuff like that. But, but ~the point being that ~you are, ~you are focused and you're prioritized on things that you can do where you wanna make a difference. And understanding what those things are.
+
+And sometimes it's something ~really ~quick that, ~you know, ~you can hopefully fix. Like let's just ~fiddle, ~fiddle with this call to action and, ~and just ~see, ~you know, ~what the right wording or ~what the right ~positioning is. And sometimes it might be a much bigger thing, ~you know, ~why aren't people buying enough things that they [00:15:00] put in our shopping cart?
+
+~And ~that might take ~a bit ~more work, ~but, but. You know, ~otherwise you're doing what we call vanity metrics. ~Right. ~Did we get more visitors this week than ~we did ~last week? ~Yeah. Yes. ~Great. ~Okay. ~So ~what, what, what are the ~
+
+Speaker 2: five most visited pages on our site? 
+
+Speaker 4: ~Yeah. Right. Like, well, ~that can be helpful information ~because, but, but ~there's always a ~and, ~and then, right.
+
+What are the five most visited information pages? ~Okay. ~And what are the outcomes that we're getting from those pages? ~Right. ~Don't stop at just the, ~okay. We've got a ~list of five pages. Jolly good. 
+
+Speaker 2: Yeah. And I'm ~really, ~really glad you mentioned that. ~Um, why, you know, we're getting that performance or, and.~
+
+Why is that good? ~Uh, ~I think the same thing applies to, ~you mentioned ~A PPC ~uh, ~specialist. ~Uh, ~it also applies to the agency. So if, ~let's say ~you tasked an agency with building your website or ~you're tasking a, an agency with ~running advertising pointing to your website, ~um, Ash is, you know, slimmed down.~
+
+Let's ~just ~look at some numbers and use them. ~Yes. And ~for performance, ~um, I, I, ~I think that extends there too. ~Um, I, too, ~too often, ~and you slam, uh, at ~a particular agency ~in the book here with saying that they ~just regurgitated a whole lot of numbers. This was up, that was down, this went sideways. And [00:16:00] what that tends to do, I find, is it makes the, let's say the.
+
+Chief marketer or the business owner just gloss over. ~They, they tune out. ~They have too much data, ~uh, ~coming at them. But instead, if they could lean in and say, no, I want that data. Maybe I don't by nature consider myself. A quant, a statistically, ~you know, ~driven person. But this is my money. This is my business.
+
+These are my customers. Now, can you tell me in a way that I can understand for the business, just tell me the data that means something for that. 
+
+Speaker 4: Right. So Glennnn, I, I, I just need to be really, ~um, ~you, you, you've kind of said that I'm railing against people ~in, ~in the book ~and, and I didn't, when you said particular agency, I mean, ~there are no names in the book, so nobody should be worried ~about, uh, you know, and ~the book is intended as constructive.
+
+~Uh, you know, I'm not, ~my goal is not ~just to, ~to slam people. My concern is, ~you know, ~there are a lot of different skills in digital marketing. ~And so ~for example, ~you know, ~I used to do seo. I don't ~do ~do SEO anymore because I ~really ~have no idea how to [00:17:00] properly cope with SEO these days. ~And ~plus, I'm ~honestly ~not that interested in doing it in detail.
+
+~Okay? But ~there are tons of different skills. There's design, ~there's ~content creation, ~right? There's ~SEO, ~there's ~advertising, ~there's ~media, ~the, you know, um, ~there's ~absolutely ~no reason to expect your web designer to understand analytics. ~And ~I think that is a mistake that some business owners make.
+
+They'll go black and blame the web designer because something isn't working. ~I, and ~in my experience, ~I, I, I, you know, I should say this, ~every single website that I've been involved in, ~the strategy of, you know, it's great and ~you have a plan and ~you ~think you know how it should work, and you put it up and it goes live, ~and ~then you find out what really happens and what visitors really do 'cause it, it's, it's rarely exactly what you, the way you planned it.
+
+~Um, yes. So I, I, I, I think that's important to, and, and, you know, ~I have concerns about agencies because I do think that there are agencies who will say, we include analytics in our services, and many of them honestly don't. What they do is a vanity dashboard. ~As we've just discussed. ~
+
+Speaker 3: Mm-hmm. ~And ~
+
+Speaker 4: that's not what I call useful analytics.
+
+~You know, okay, ~you got more visitors this week than last week. Does that matter? ~You know, if those, ~if none of those visitors ~actually ~converted for you, then so what? ~Right? ~What's the point of them? [00:18:00] Did you pay for them? That's even worse. Right, 
+
+Speaker 3: right, ~right. ~
+
+Speaker 4: ~Um, so, you know what, ~what I'm trying to persuade the business owner to do is ~to, ~if your agency says they do analytics, then make sure they really actually do actionable intelligence based analytics.
+
+If they don't, then say, thank you very much. Please carry on doing the stuff that you are good at, like my SEO and my paid ads, and let me get somebody else to do the serious analytics. 
+
+Speaker 2: Right. So there's something inescapable for. Our, ~you know, ~marketer or business owner here, ~um, ~they are the subject matter about their business and they ultimately bear responsibility for all of the different parties that they hire.
+
+~So ~you point out, ~well ~in the book that they should be looking for. For example, a analyst at an agency who ask questions will tell me. What actually the website does for your business, or what do you hope to see happen? ~Um, ~so you can assemble, ~um, ~these people, ~but I think ~one of the things ~that, uh, ~you also point out [00:19:00] rightly is marketing is a mile wide with all of those specialties ~and.~
+
+It can be frustrating for ~maybe a, a, ~a non marketer or a person ~who's now ~in marketing leadership. ~Uh, so they're not doing it all themselves, but ~when you have an expert who just does tags ~and you have ~another expert that just does design, ~and you have another ~one for UX ~and for your ~e-commerce ~and for your ~SEO and ~your ~PPC, ~you say.~
+
+~And ~you make a plea for this. At the end of the book, you say, please try to ~get together, ~get them all together in a room ~if you can, ~especially at important junctures like when you're building or rebuilding a site. Why is that? 
+
+Speaker 4: ~Well, you know, ~obviously all these things bleed into each other, right? SEO and content and ads ~and, and all.~
+
+~I mean, ~everything has a bearing on everything else. ~Um, there's also, ~if you want to do serious analytics, there are some things that you can build into your website that ~your designers are gonna think are really great, but ~actually get massively in the way of analytics. For example, ~okay, let's, ~you said I could talk a little ~bit ~techie here.
+
+~I mean, ~for those who know what an iframe is, ~right? So ~an iframe is invisible to the person who comes to the website, but it's ~actually ~[00:20:00] code from a ~completely ~different site or a third party vendor. For example, a booking engine or a calendar, ~um, ~widget ~or something like that, ~right in the middle of the page.
+
+~Um, ~that the visitor can interact with. ~And so, as I say ~to the visitor, it looks seamless, which is wonderful, which is why, ~you know, ~the web designer loves it. The problem is that it's ~actually ~code from a completely different site or ~a completely different ~provider, ~um, ~hosted separately ~and, ~and your standard analytics doesn't get into it.
+
+~'cause it can't, ~it can't get into that code unless. You ~do something to ~customize and handle that situation, which can sometimes be ~really quite ~complicated. ~Um, and I think ~in my last chapter, ~I've got an ex, ~I had a horrible example last year that ~I think ~we ultimately had to give up on. ~I think ~I even asked one of my ~actual ~gurus to help and even he couldn't make it work.
+
+~Um. Right. And you know, that's another, okay, ~this was a rant. So I, I, I know I've said sometimes when, ~uh, ~you, you said I was railing and I actually really maybe wasn't, but this is a rants in the book, ~um, ~which is about third party event. This particular vendor. It wouldn't help. They were not interested in my [00:21:00] client wanting intelligent analytics ~because, you know, ~this was a booking engine, so it was ~actually really ~important to see which visitors ~actually ~completed the, ~the, the complete ~transaction, ~um, ~because they didn't come back to my client's website at the end of it.
+
+~Um, and ~this third party vendor, which was the main supplier in this particular industry. They've been around forever ~and you know, ~they're doing fine 'cause they're the main supplier and ~it's, ~they've got all the industry knowledge and everybody goes to them. ~Um, but ~I was ~also ~concerned because they were collecting data, I could see using my diagnostic tools, that they ~also ~were running a version of Google Analytics and ~they were running ~Google Tag Manager ~on the piece, you know, ~on their part of the code, which meant ~that ~they were collecting data, which has all sorts of implications.
+
+For my clients in terms of privacy, ~because remember, ~this is a booking engine. ~They're ~collecting credit card information and addresses ~and all that stuff, right? Um, yes. And ~we don't know what they're doing. ~Made ~
+
+Speaker 2: promises when they arrived at the first page of your website, of what you would do. But now there are promises that you cannot keep.
+
+Speaker 4: ~Right? ~And it's not even that ~we, it's a, you know, ~they are separate. We don't ~even ~know what data they're collecting. Or how they're storing [00:22:00] it ~or anything like that. So, you know, ~I do have this thing that, ~you know, ~these third party, ~uh, ~pieces of code ~and ~can be amazingly helpful. ~Um, but, ~but ~I, ~it really annoys me when you get a vendor that isn't interested in helping the business get more intelligent about its marketing and ~is, is doing stuff that ~is giving us ~kind of ~potential legal headaches.
+
+Speaker 2: Yeah. ~And you know, there is. ~Iframe is merely one manifestation of that. Another would be a SaaS tool where they say ~to you, ~we're going to ~grab a, a, we're gonna ~create ~a, ~a little subdomain. ~Um, and you know, it's ~like www two, ~do ~your site or info ~dot your site. ~But what that means if somebody hops off ~of ~your main domain onto that domain, they're coming to this hosted area.
+
+~So ~despite. How easy it sounds like you can get onboarded with this tool. ~Again, ~getting those people together in the room, asking the person who is trying to put this data into your Google Analytics ~for. ~Will I be able to have a continuous clickstream of my user's journey, or will they go into a black hole when they move off of my main domain?
+
+~Uh, ~you can't abdicate [00:23:00] responsibility for these things. ~You, you have to ask, and ~it may make the decisions that you do on technology or the recommended decisions that you get, you may decide differently based on the new knowledge that these other marketing. ~You know, ~subject matter experts tell you. 
+
+Speaker 4: And there's also non analytics reasons as well, synergy.
+
+~So, you know, ~if you are creating a campaign for ~a, ~a new product ~or, ~or something that you wanna focus on, ~you know, you've got a spring sale or whatever it might be, ~and you are gonna run an ad campaign for that, wouldn't you also want some content around that? ~For example, you know, um, your, ~your paid ads ~can really, ~the keywords that attract people, for example, ~can, ~can inform your SEO strategy.
+
+~So, um, yeah, I love that you say ~
+
+Speaker 2: ~that you, ~you always put ~kind of ~a two-sided coin ~on, ~on how we need to look for these ways. We, we don't wanna miss revenue opportunities, but nor do we want to needlessly waste resources. ~Um, ~I really like that 'cause we can, ~uh, ~sometimes, ~you know, ~worry so much about, ~um, ~not doing anything wrong ~that we.~
+
+~We ~have an error of commission, right. ~We, ~we don't do something. Right. 
+
+Speaker 3: [00:24:00] Right. 
+
+Speaker 2: ~Uh, ~so many different ways that you give that in the book. And I think one of the really clear examples to me of how it came down was not seeing how my website is serving different segments. ~So, uh, ~I think the story ~that, uh. That ~the most was just a very simple example for a jeweler.
+
+So a jeweler has a website and a jeweler needs to recognize that they have at least two different personas that they're working on, especially if we think about something like an engagement ring. Tell us about that. 
+
+Speaker 4: That's actually one of my favorite, it's actually comes from a real life case study from ~a, ~a jewelry store that had an online store ~and, ~and did a study on this.
+
+~Um, but you know, ~I used to do a lot of teaching in business school, and ~this was, ~you can really ham up the characters ~when you're, ~when you're teaching it. ~But, you know, basically in terms of hamming it up, I, I, you know, you've, so ~you've got, ~um, a, a, ~a page about a diamond, ~right? That, ~that could go into an engagement ring ~and, um.~
+
+You've got two very different characters looking at that, ~that, uh, ~diamond. One of them is, ~you know, ~a young woman who's very interested in getting engaged. She may or may not have a guy that she [00:25:00] wants to get engaged to yet, but she's interested in diamonds and ~she ~loves bling, right? ~And so ~you can say what will be important to her.
+
+Lots of pictures of very pretty diamond, ~you know, ~lots of flashy stuff. ~Um, ~and. And share buttons so ~that ~she can share with her friends ~and, ~and show ~what else, uh, or, or ~all the things that she's interested in. ~And ~maybe a wishlist if she has got a guy, ~you know, ~so ~that ~she can make a note of the ones that she likes.
+
+~Uh, ~but ~obviously she's not, excuse me, ~she's not actually gonna be the buyer. ~And then, uh, ~I contrast that with a ~very, ~very data-driven guy ~called, ~called Dave. ~I dunno why I called him Dave, um, who is going to get engaged, wants ~to get engaged, wants to buy a diamond, but is a very cautious buyer. ~And ~because he's very data-driven, ~I mean, he's not.~
+
+~Of course ~he wants to see pictures of the diamond, but it's not the bling that's going to really motivate and, and get his interest. It's, it's the provenance of the diamond. Where does it come from? How is it mined? All the specs of it, ~right? That, and ~maybe he wants a PDF that he can download with all that on.
+
+~'cause ~Sharon, ~you know, the other, ~the woman isn't interested in that at all. ~Um. ~He will obviously want to know the price, where they may come together. ~Is that, that ~they may both want a wishlist because he's gonna want to make notes. He's gonna be doing a lot of research ~'cause he's a, you know, ~he's not gonna buy the first [00:26:00] thing he sees.
+
+~So, so ~he will also maybe want the wishlist so that he can note the ones that he's interested in. ~Um, but, you know, ~you see a ~very, ~very different motivation for looking at this page. The, the jewelry story is interested in both of them because, ~you know, ~even though ~the, ~the woman isn't gonna buy anything, she is sharing with her friends.
+
+So she's putting the word out, ~right? So ~she may bring other people to their site, ~um, and, ~and the guy is a potential buyer. ~And ~at the end of the spiel, ~I, ~I always say to the class, now, do you think these two were made for each other? 
+
+Speaker 2: Well, that's a very dodgy question, ~right? Uh, ~
+
+Speaker 4: ~well, ~opposites attract, so you never know, right?
+
+Speaker 2: They could, but I think what is a fascinating question, if we were to sift through the data behind the scenes is. Has the site been designed and the data tagged in a way that I might be able to, ~uh, ~associate some actions or sub pages or different. Modes of getting that information. ~You know, uh, I, ~I offer, let's say the 360 degree [00:27:00] view, but I offer right beside it, the specs on PDF, ~and ~
+
+Speaker 3: mm-hmm.
+
+Speaker 2: My question would be. Could I tell from the data behind the scenes, along with a few things that Google might share with me, ~for example, ~whether it is a predominantly male or a predominantly female person doing that, but can I actually get those two segments where I can measure how well my website is treating them both?
+
+Speaker 4: Right. ~And, and you can see, I mean, obviously ~you can see the different actions. ~You know, ~we've talked about adding to the wishlist. ~We talked about, um, ~using sharing buttons, using the 360 degree, et cetera. ~Yeah. And, and you know, ~it may not be definitive, but it will show you, ~like ~if there's a clear pattern of behavior that's more dominant, ~you know, that ~then you might be able to extrapolate from that.
+
+Speaker 2: ~Yeah. And, and like. ~It's digital body language, is it not? ~It's right. Well, ~they're telling us about themselves by what they are doing. ~Mm-hmm. Um, ~and ~that, ~that's what I think is really fascinating about how you brought it to life. In the book, you were explaining that we shouldn't just be randomly making [00:28:00] changes to our website.
+
+~That ~if we're thinking of either getting rid of functionality on the site or adding functionality. We should first look at our data ~and, you know, it, uh, ~we're presupposing ~that ~that data has been set up to do just the kind of analysis we talked about. But if it is, ~I think ~what I really enjoyed was the way you put it across, it seemed ~kinda ~liberating.
+
+It didn't seem like I would be in these, ~you know, ~existential crises saying, do I take away functionality or add it? You said that when the marketer possesses this kind of data. ~If their boss is pushing forward or something, ~the great news is that the data will tell you what to do. 
+
+Speaker 4: Right. ~And ~one of the things ~that I, ~I really like about analytics is when you get beyond the, okay, what's happening and what do we need to fix into the OR and what other possibilities can we tease out?
+
+~Um, and so ~for example, I have ~a number of ~stories in the book about where we found opportunities for new products, services, or target markets, ~um, ~based on insights ~that we got ~from ~the ~data. ~And when you talk about segmenting and ~one of my favorites ~is, ~is a client ~I had ~that made industrial wax. ~And, um, they, um, ~they were doing really [00:29:00] well in search ~and so, um.~
+
+They had a lot of people coming to their website looking for beeswax, duck wax, et cetera. These were consumers who wanted to buy small amounts of maw wax because they were making their own candles. ~And ~my client was a big industrial manufacturer. ~You know, they, ~their website, ~they're really proud of, you know, you talk about the trust and authenticity.~
+
+~They ~had ~all these ~pictures of ~their, ~their manufacturing plant and how clean and well organized it was, which people really liked. ~Um, but of course. ~They knew ~that ~they had a lot of consumers coming to the site ~and ~so they had a big statement that said, ~you know, ~we don't sell onesies and twosies, ~bits and beeswax, right?~
+
+But when we looked at the numbers and ~we ~realized just how many of these people there were, which you can tell because ~obviously ~they see this statement and ~they ~go away. ~Um, ~and you can ~also ~see the sort of keyword searches ~that are ~bringing people in. At that point, we said, what about developing. ~Just a side business, just ~a small e-commerce store.
+
+~You know, ~if you are a consumer, click here. Go to ~a, just ~a small side store where we sell consumer level amounts of the sort of wax ~that ~you use to make candles. ~Um, and, and ~they went ahead and did it. ~I mean, you know, ~maybe it's a bit of a business risk, but it worked beautifully because they already knew [00:30:00] they were gonna get the traffic 'cause they were doing so well in search.
+
+~Um, and ~those people's, ~you know, their ~search intent is ~very, ~very clear. I wanna buy beeswax, ~right? ~And these people have very high quality beeswax, 
+
+Speaker 3: right? 
+
+Speaker 4: And so they created this e-commerce store and it did really well because ~they, maybe ~they put a couple of people on it to staff it, ~but I mean, ~it wasn't complicated to run.
+
+It basically had already sold itself. ~You know, ~all you have to do is package up ~and wax ~and send it out. ~And it, ~it ~was ~made a very nice little ~kind of ~sideline. 
+
+Speaker 2: ~Yes. Yeah. ~And the important thing there was they deliberately decided we will split apart the pallets and ~we will, you know, ~be willing to have a separate business that is just selling, ~you know, ~small lots at a time.
+
+But, ~um, ~you also give examples in the book where, not deliberately, but by accident the. Type of visitors that we don't want to have are coming to our website. You talk about another B2B customer where ~the, uh, I think ~the owner was given, ~uh, ~some, ~you know, ~yarn by a SEO firm saying, yes, we'll drive a lot of traffic to your website.
+
+And then they gave them those dashboards that [00:31:00] showed, oh, your traffic has ballooned. A lot of people, ~uh, ~searching for terms are coming to your website. But it wasn't until you speak with a salesperson who said, I hate what has happened, because it has brought a lot of people ~who we can never, I think it was appliances ~we can never sell.
+
+Individual appliances we're geared to sell to distributors. So this is actually made my life worse. ~Um, ~I think the takeaway here is. There's no such thing as one monolithic block of website visitors. There are visitors of all types. Know what type you want. Make sure that your, ~you know, ~executives ~on ~through to marketing and sales are talking with each other so they agree on which types of visitors you want, and then deliberately go after those, right?
+
+Speaker 4: ~Right. I, ~I think ~in that case, ~the problem was ~that the way that ~the firm's business model was set up, ~um, ~the only way you could express interest in a product was to fill in a ~an RFPA ~sales form or ~a, ~a lead form. ~Ah, and, um, ~[00:32:00] there wasn't any ~sort of ~indication that they wouldn't sell ~you ~one appliance.
+
+~And so ~the sales guy was ~really ~upset because his ~sales ~rep spent so much time on the phone finding out that somebody only wanted something for ~their, you know, ~their kitchen. ~And ~that was not something ~what ~they did. ~And ~that website, ~basically, since they weren't going to sell one season, they ~needed a, ~they did need that ~statement that said, look, we only sell ~re uh, uh, ~wholesale.
+
+~You know, we're not, ~we don't sell to consumers. ~Um, and ~when they did that. They're still gonna get the same traffic, they're gonna waste that traffic. But they've made that decision that that's what they want to do. 
+
+Speaker 2: Right. And I think ~you, ~you say, ~you know, ~there are ways that your website design, ~you know, you ~can put a large note at the ~very ~top of the page saying, we are an industrial distributor of these products.
+
+~Uh, ~we do not, ~you know, ~sell to, ~uh, ~end consumers. Or like ~you said ~in the BS wax example, are you an individual consumer? Go over here. So ~I think ~it all leads back to the data ~that, you know, ~if you've designed it in a way that you can tell, oh, I'm getting a lot of traffic on this page. This page was explicitly designed for this kind of customer, then you're [00:33:00] starting down the path of actually using the data on your website to make informed decisions on your business.
+
+Right? That's where we want to go. 
+
+Speaker 4: Yeah. ~Yeah. ~
+
+Speaker 2: Are there any other things that we have not covered? ~I mean, ~there's. Much that I couldn't get to in our discussion here. But ~um, ~I did enjoy the fact that you've pointed out there are people who arrive on your website that they are definitely not supposed to be there.
+
+~So they're a no. ~So we need to ~move, ~remove them. There are people who are definite yeses, and ~what I was left with was the impression that ~there's a whole bunch of people in the middle that could be maybe yes or maybe no, and that ~we need to kind of, ~we need to work on making our sites. To help them choose which way they should go.
+
+Speaker 4: Right. And that's where the authenticity and the trust ~and the all of that piece. You know, ~comes in as well. 
+
+Speaker 3: Mm-hmm. 
+
+Speaker 4: Mm-hmm. ~Um, and you know, I, I, I, I know your audience is, is marketers. My, ~my goal in writing this book was ~really ~to make the point to business owners who don't want to be all technical. So, ~you know, ~we were joking about it doesn't have a lot of techy terms in it, except towards the end when I make some [00:34:00] points.
+
+~Um, but ~this entire book is written. In English, there are no pie charts or graphs or dashboards in the entire thing. There's very little analytics jargon because what I'm trying ~to do is to, is ~to help business owners understand why analytics is so important. ~Because as we've been saying, ~if you don't look at the data.
+
+You really don't know what you're going is is going on. You're flying blind ~with everything that you're doing ~with your marketing. You don't know which parts of your marketing work ~or not. I mean, ~maybe you are doing social media advertising and your ~social media ~platform is saying, ~look, ~we're driving ~all these ~clicks to your website.
+
+But ~what ~if you don't look at what's happening when they get to the website? You don't know whether that money you're spending is worth spending. ~So ~my goal ~is, ~is to say to a business owner, ~look, ~you don't have to do this yourself. You don't have to look at ~a load of ~charts and graphs if you don't want to, but you do know what you ought to know about your site, what you ought to know, how that can inform your business strategy ~overall.~
+
+What's realistic to ask your analysts to do, and how to talk to your analysts and help your analyst to help you. ~So, you know, my, I think my, my, ~my favorite question that ~I, I think ~I start the book out with is, ~you know, ~when a client said to me, they didn't say, Philippa, please give me [00:35:00] 50 pages of analytics reports.
+
+They said, please tell me what do I need to know to run my business better? ~And ~that to me is the best question that a client can ever ask me. ~You know, ~what do I need to know to run my business better? ~Because ~we've also been talking about ways, not just to optimize the website, but to increase your ROI increase your revenue, increase the success of your business.
+
+~So, so ~the book ~is. May be ~helpful for marketers, but I'm also ~help ~hoping that it will help ~marketers and ~analysts if you take the book and give it to your decision makers, your clients. ~Right. ~The people ~that ~you are trying to help. It's not too long, so hopefully they can read it quite quickly. ~Yes. And ~there are ~all these ~stories and examples in it ~we've talked about ~that ~you know, ~will help them ~to ~figure out why you, the marketer and you the analysts are actually so important.
+
+Speaker 2: Yes. I know it will be a value if, ~uh, ~it is read by the business owners. And I still think for marketers who have lived that unpleasantness of banging their head against a wall in talking to an owner [00:36:00] or in having an owner say to them, I don't understand your marketing gibberish, and I don't want to know it.
+
+~Right. It, it, it just, ~reading, it helps the marketer maybe. Remove a few of the terms, but get more to the heart of that question. ~You said, ~how do I make my business better? Because guaranteed, that will get their superiors attention. And if they can just do a little bit more of that, then they can do all of the other orchestration behind the scenes with all of the different parties to make a website do that.
+
+But if they don't have ~internally ~the trust of the business owner, ~I, ~I think it's all for naught, 
+
+Speaker 3: ~right? ~
+
+Speaker 2: Right. Absolutely. Philippa. ~Uh, it just ~thank you so much for writing the book. If people wanted to get their hands on it or to find out more about what you do, where can they go? 
+
+Speaker 4: ~Well, ~obviously, ~uh, ~Amazon and all good bookstores.
+
+~Um, ~my website is called websites win.com. And, ~uh, ~you can also find me on LinkedIn ~and ~I'm ~actually ~the only person in the entire world ~as far as I know ~with my name, which, ~uh, ~makes me very easy to find on LinkedIn. ~So ~I'm ~very ~happy to connect with you [00:37:00] there. ~Um, and you know, I, ~I ~do ~offer ~obviously ~a complimentary discovery call, so I'm ~more than ~happy to ~just have a ~chat with anybody that would, ~uh, ~like to do that.
+
+Speaker 2: ~Great. ~Thanks again for coming on. 
+
+Speaker 4: Thank you.
