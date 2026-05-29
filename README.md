@@ -439,14 +439,6 @@ result = pipeline.query_with_filters(
 )
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 🙏 Acknowledgments
 
 - **Amazon Bedrock** for LLM capabilities
