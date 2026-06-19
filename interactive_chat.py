@@ -10,7 +10,7 @@ def main():
     
     # Initialize the pipeline
     print("🚀 Initializing system...")
-    pipeline = TariffRAGPipeline()
+    pipeline = BookRAGPipeline()
     if not pipeline.initialize():
         print("❌ Failed to initialize system")
         return
