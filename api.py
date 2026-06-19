@@ -22,7 +22,7 @@ pipeline: BookRAGPipeline | None = None
 @app.on_event("startup")
 def startup_event():
     global pipeline
-    pipeline = TariffRAGPipeline()
+    pipeline = BookRAGPipeline()
     if not pipeline.initialize():
         raise RuntimeError("Failed to initialize RAG pipeline")
 
