@@ -24,7 +24,15 @@ except PermissionError:
     pass  # Directories may already exist or be created by user
 
 # --- Data source settings (S3) ---
-S3_BUCKET = "s3readingroom"   # 🔹 Replace with appropriate S3 bucket name
+S3_BUCKET = "s3readingroom"
+S3_DATA_PREFIX = os.getenv("S3_DATA_PREFIX", "data/")  # folder inside S3_BUCKET holding the CSV + TXT files
+BOOKS_CSV_S3_KEY = os.getenv("BOOKS_CSV_S3_KEY", f"{S3_DATA_PREFIX}exported_books_db_merged.csv")
+TXT_FILES_S3_PREFIX = os.getenv("TXT_FILES_S3_PREFIX", f"{S3_DATA_PREFIX}txt/")
+
+# --- S3 settings for the embeddings-builder script (csv_and_txt_to_embeddings.py) ---
+# This is the single S3 "folder" the builder scans recursively for both CSV and .txt
+# files.
+EMBEDDINGS_INPUT_S3_PREFIX = os.getenv("EMBEDDINGS_INPUT_S3_PREFIX", S3_DATA_PREFIX)
 
 # Book summaries CSV file
 BOOKS_CSV_FILE = DATA_DIR / "exported_books_db_merged.csv"
