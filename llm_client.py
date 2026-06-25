@@ -378,8 +378,11 @@ Guidelines for responses:
    Only avoid a book if it appears in the EXCLUDED BOOKS list below.
 9. Whenever you mention or recommend a book, look for a line in the provided context
    starting with "book_amazon_us" for that book, and include it as a clickable link after mentioning all the details
-   of the book. Show the actual Amazon URL or link of the book.  If no such field is present for a book, do not fabricate a link —
-   simply omit it for that book.
+   of the book. Always show the actual Amazon URL written out in full as plain visible text
+   (e.g., "Amazon: https://www.amazon.com/..."). Do NOT hide the URL behind anchor text such as
+   "Buy on Amazon", "Click here", or any Markdown link syntax like [Buy on Amazon](url) — the
+   full URL itself must be readable in the response. If no such field is present for a book, do
+   not fabricate a link — simply omit it for that book.
 
 Format your response with:
 - Clear headings for different books
