@@ -5,12 +5,6 @@ Convert CSV and TXT files into text embeddings (ChromaDB).
 Supports:
 - CSV files (each row → text chunk + metadata)
 - Plain text files (.txt) (each file → one document + metadata)
-
-Usage (from this folder or repo root):
-  python csv_and_txt_to_embeddings.py                       # uses S3_BUCKET / EMBEDDINGS_INPUT_S3_PREFIX from config.py
-  python csv_and_txt_to_embeddings.py --s3-prefix data/v2/  # override the S3 folder
-  python csv_and_txt_to_embeddings.py --s3-bucket other-bucket --s3-prefix some/folder/
-  python csv_and_txt_to_embeddings.py --help
 """
 
 import argparse
@@ -29,34 +23,12 @@ from s3_utils import list_keys_with_suffix, fetch_object_bytes
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_INPUT_DIR = SCRIPT_DIR / "input"  # kept for reference; no longer used by main()
 VECTOR_DB_DIR = SCRIPT_DIR / "vector_db"
 
 COLLECTION_NAME = "csv_txt_embeddings"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 BATCH_SIZE = 128
 ENCODINGS = ("utf-8", "latin-1", "iso-8859-1", "cp1252", "utf-8-sig")
-
-
-def load_csv(path: Path) -> pd.DataFrame:
-    """Local-disk CSV loader. Kept for reference / offline use; main() now uses load_csv_from_s3()."""
-    for enc in ENCODINGS:
-        try:
-            return pd.read_csv(path, encoding=enc)
-        except UnicodeDecodeError:
-            continue
-    raise ValueError(f"Could not read CSV: {path}")
-
-
-def load_text_file(path: Path) -> str:
-    """Local-disk text loader. Kept for reference / offline use; main() now uses load_text_from_s3()."""
-    for enc in ENCODINGS:
-        try:
-            return path.read_text(encoding=enc)
-        except UnicodeDecodeError:
-            continue
-    raise ValueError(f"Could not read text file: {path}")
-
 
 def load_csv_from_s3(bucket: str, key: str) -> pd.DataFrame:
     """Download a CSV object from S3 and parse it, trying multiple encodings."""
@@ -188,12 +160,6 @@ def main() -> None:
         help=f"S3 folder/prefix to scan recursively (default: {EMBEDDINGS_INPUT_S3_PREFIX})",
     )
     ap.add_argument(
-        "--output-dir",
-        type=Path,
-        default=OUTPUT_DIR,
-        help="Output directory for vector DB (default: ./output)",
-    )
-    ap.add_argument(
         "--collection-name",
         default=COLLECTION_NAME,
         help=f"ChromaDB collection name (default: {COLLECTION_NAME})",
@@ -214,7 +180,7 @@ def main() -> None:
     bucket = args.s3_bucket
     prefix = args.s3_prefix
 
-    vector_db_path = args.output_dir / "vector_db"
+    vector_db_path = VECTOR_DB_DIR
     vector_db_path.mkdir(parents=True, exist_ok=True)
     print(f"📂 Vector DB: {vector_db_path.absolute()}")
     print(f"☁️  Reading input from s3://{bucket}/{prefix}")
@@ -288,20 +254,3 @@ def main() -> None:
             collection.add(
                 ids=batch_ids,
                 embeddings=batch_emb,
-                documents=batch_texts,
-                metadatas=batch_metas,
-            )
-        except TypeError:
-            collection.add(
-                embeddings=batch_emb,
-                documents=batch_texts,
-                metadatas=batch_metas,
-                ids=batch_ids,
-            )
-
-    print(f"✅ Done. Collection '{args.collection_name}': {collection.count()} documents.")
-    print(f"   Output: {vector_db_path.absolute()}")
-
-
-if __name__ == "__main__":
-    main()
