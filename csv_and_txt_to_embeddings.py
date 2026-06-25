@@ -254,3 +254,20 @@ def main() -> None:
             collection.add(
                 ids=batch_ids,
                 embeddings=batch_emb,
+                documents=batch_texts,
+                metadatas=batch_metas,
+            )
+        except TypeError:
+            collection.add(
+                embeddings=batch_emb,
+                documents=batch_texts,
+                metadatas=batch_metas,
+                ids=batch_ids,
+            )
+
+    print(f"✅ Done. Collection '{args.collection_name}': {collection.count()} documents.")
+    print(f"   Output: {vector_db_path.absolute()}")
+
+
+if __name__ == "__main__":
+    main()
