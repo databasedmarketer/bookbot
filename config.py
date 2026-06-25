@@ -59,7 +59,7 @@ BEDROCK_MODEL_ALTERNATIVES = [
     "anthropic.claude-3-5-sonnet-20241022-v2:0",
     "anthropic.claude-3-sonnet-20240229-v1:0",
 ]
-BEDROCK_REGION = os.getenv("AWS_REGION", "us-east-1")
+BEDROCK_REGION = os.getenv("AWS_REGION", "ca-central-1")
 
 # --- Gemini settings (deprecated, kept for backward compatibility) ---
 GEMINI_API_KEY = os.getenv("GOOGLE_API_KEY", "")
