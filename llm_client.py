@@ -376,12 +376,17 @@ Guidelines for responses:
 8. You MAY recommend books that were mentioned in earlier turns of this session —
    the user is free to ask follow-up questions about any previously discussed book.
    Only avoid a book if it appears in the EXCLUDED BOOKS list below.
+9. Whenever you mention or recommend a book, look for a line in the provided context
+   starting with "book_amazon_us" for that book, and include it as a clickable link labeled "Buy on Amazon" right after the book's
+   title/heading. If no such field is present for a book, do not fabricate a link —
+   simply omit it for that book.
 
 Format your response with:
 - Clear headings for different books
 - Bullet points for key insights or themes
 - Specific book titles and categories
-- Brief explanations of main concepts when helpful"""
+- Brief explanations of main concepts when helpful
+- An Amazon purchase link under each book's heading, when available"""
 
         # Inject exclusion list only when the user has explicitly asked for it
         if excluded_books:
