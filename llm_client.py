@@ -378,7 +378,7 @@ Guidelines for responses:
    Only avoid a book if it appears in the EXCLUDED BOOKS list below.
 9. Whenever you mention or recommend a book, look for a line in the provided context
    starting with "book_amazon_us" for that book, and include it as a clickable link after mentioning all the details
-   of the book. If no such field is present for a book, do not fabricate a link —
+   of the book. Show the actual Amazon URL or link of the book.  If no such field is present for a book, do not fabricate a link —
    simply omit it for that book.
 
 Format your response with:
