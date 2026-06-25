@@ -30,8 +30,7 @@ from s3_utils import list_keys_with_suffix, fetch_object_bytes
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_INPUT_DIR = SCRIPT_DIR / "input"  # kept for reference; no longer used by main()
-OUTPUT_DIR = SCRIPT_DIR / "output"
-VECTOR_DB_DIR = OUTPUT_DIR / "vector_db"
+VECTOR_DB_DIR = SCRIPT_DIR / "vector_db"
 
 COLLECTION_NAME = "csv_txt_embeddings"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
