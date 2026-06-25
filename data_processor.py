@@ -4,8 +4,10 @@ Data processing module for book summaries CSV
 
 import pandas as pd
 import numpy as np
+import io
 from typing import List, Dict, Any
-from config import BOOKS_CSV_FILE, CHUNK_SIZE, CHUNK_OVERLAP
+from config import BOOKS_CSV_FILE, CHUNK_SIZE, CHUNK_OVERLAP, S3_BUCKET, BOOKS_CSV_S3_KEY, TXT_FILES_S3_PREFIX
+from s3_utils import fetch_csv_bytes, fetch_txt_files
 import re
 
 class BookSummariesProcessor:
@@ -15,17 +17,11 @@ class BookSummariesProcessor:
     
     def load_data(self) -> pd.DataFrame:
         """Load and clean the book summaries CSV data"""
-        csv_path = BOOKS_CSV_FILE
+        print(f"Loading data from s3://{S3_BUCKET}/{BOOKS_CSV_S3_KEY}")
 
-        print(f"Loading data from {csv_path}")
-        
-        # Check if file exists
-        if not csv_path.exists():
-            raise FileNotFoundError(
-                f"Data file not found: {csv_path}\n"
-                f"Please ensure the CSV file exists in the data directory."
-            )
-        
+        # Download the CSV bytes from S3 (replaces the old local-disk read)
+        raw_bytes = fetch_csv_bytes(S3_BUCKET, BOOKS_CSV_S3_KEY)
+
         # Try different encodings for CSV files (some may have special characters)
         encodings = ['utf-8', 'latin-1', 'iso-8859-1', 'cp1252', 'utf-8-sig']
         self.df = None
@@ -33,7 +29,7 @@ class BookSummariesProcessor:
         
         for encoding in encodings:
             try:
-                self.df = pd.read_csv(csv_path, encoding=encoding)
+                self.df = pd.read_csv(io.BytesIO(raw_bytes), encoding=encoding)
                 print(f"✅ Successfully loaded CSV with {encoding} encoding")
                 break
             except UnicodeDecodeError as e:
@@ -41,13 +37,13 @@ class BookSummariesProcessor:
                 continue
             except Exception as e:
                 raise IOError(
-                    f"Failed to read CSV file {csv_path}: {e}\n"
+                    f"Failed to read CSV file s3://{S3_BUCKET}/{BOOKS_CSV_S3_KEY}: {e}\n"
                     f"Please check if the file is valid CSV format."
                 )
         
         if self.df is None:
             raise IOError(
-                f"Failed to read CSV file {csv_path} with any encoding (tried: {', '.join(encodings)})\n"
+                f"Failed to read CSV file s3://{S3_BUCKET}/{BOOKS_CSV_S3_KEY} with any encoding (tried: {', '.join(encodings)})\n"
                 f"Last error: {last_error}\n"
                 f"Please check if the file is valid CSV format."
             )
@@ -65,6 +61,18 @@ class BookSummariesProcessor:
         
         print(f"Loaded {len(self.df)} books")
         return self.df
+
+    def load_txt_transcripts(self) -> List[Dict[str, str]]:
+        """
+        Fetch interview-transcript .txt files from the S3 data folder
+        (replaces reading them from a local txt/ subfolder). Intended for
+        use by the embeddings-building script.
+        Returns a list of {'filename': ..., 'content': ...} dicts.
+        """
+        print(f"Loading TXT transcripts from s3://{S3_BUCKET}/{TXT_FILES_S3_PREFIX}")
+        txt_files = fetch_txt_files(S3_BUCKET, TXT_FILES_S3_PREFIX)
+        print(f"Loaded {len(txt_files)} txt files")
+        return [{"filename": fn, "content": content} for fn, content in txt_files]
     
     def create_chunks(self) -> List[Dict[str, Any]]:
         """Create chunks from the book summaries data for better retrieval"""
